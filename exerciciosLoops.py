@@ -16,7 +16,6 @@ def imprimir_nomes(lista) :
 imprimir_nomes(nomes)
 
 #Utilize o loop do exercício 1 ou 2 e printe somente os nomes que começam com letra “A”
-
 for nome in nomes:
     if nome[0] == 'A':
         print(nome)
