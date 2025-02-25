@@ -28,4 +28,3 @@ for vaga in vagas:
         print(f"Vaga: {titulo}\nEmpresa: {empresa}")
     except Exception as e:
         print(f"Erro ao extrair informações da vaga: {e}")
-              
